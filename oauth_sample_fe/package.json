@@ -1,0 +1,22 @@
+{
+  "name": "oauth2_sample_fe",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@nuxtjs/auth": "^4.9.1",
+    "@nuxtjs/axios": "^5.12.2",
+    "@nuxtjs/dotenv": "^1.4.1",
+    "buefy": "^0.9.3",
+    "nuxt": "^2.14.6",
+    "nuxt-auth": "^2.0.10",
+    "nuxt-buefy": "^0.4.3"
+  },
+  "devDependencies": {
+    "pug": "^3.0.0",
+    "pug-plain-loader": "^1.0.0"
+  }
+}
